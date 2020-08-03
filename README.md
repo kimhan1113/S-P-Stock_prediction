@@ -1,1 +1,1 @@
-# S-P-Stock_prediction
+# S&P-Stock_prediction
